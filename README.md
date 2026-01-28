@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Computer Systems Engineering Student | Future Data & Cloud Engineer
 
-Welcome to my profile! I'm a student passionate about the world of **Data** and **Cloud Computing**, with a clear goal of becoming a professional in these fields by 2026. I love combining programming logic with the creativity of my hobbies.
+I'm a student passionate about the world of **Data** and **Cloud Computing**, with a clear goal of becoming a professional in these fields by 2026. I love combining programming logic with the creativity of my hobbies.
 
 ---
 
