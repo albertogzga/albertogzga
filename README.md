@@ -1,24 +1,21 @@
 # I'm Alberto
 
-### 👨‍💻 Computer Systems Engineering Student | Future Data & Cloud Engineer
+###  Computer Systems Engineering Student | Future Data & Cloud Engineer
 
 I'm a student passionate about the world of **Data** and **Cloud Computing**, with a clear goal of becoming a professional in these fields by 2026. I love combining programming logic with the creativity of my hobbies.
 
 ---
 
-### 🚀 About Me
+###  About Me
 
-- 🔭 **Currently working on:** Data analysis projects and learning Cloud architectures.
-- 🌱 **Learning:** English 🇺🇸, Japanese 🇯🇵, and deepening my Python skills.
-- 🎓 **2026 Goal:** Landing my first Internship or Jr. role in Data/Cloud.
-- ⚡ **Fun facts:**
-  - 🎹 I play the piano (practicing on my 61-key keyboard!).
-  - 🏋️‍♂️ You'll find me at the gym working on a functional physique.
-  - 🍳 Experimenting in the kitchen when I'm not coding.
+-  **Currently working on:** Data analysis projects and learning Cloud architectures.
+-  **Learning:** English 🇺🇸, Japanese 🇯🇵, and deepening my Python skills.
+-  **2026 Goal:** Landing my first Internship or Jr. role in Data/Cloud.
+
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages & Tools:**
 
@@ -29,7 +26,7 @@ I'm a student passionate about the world of **Data** and **Cloud Computing**, wi
 
 ---
 
-### 📊 My GitHub Stats
+###  My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true" height="150" alt="stats graph"  />
