@@ -39,10 +39,10 @@ Welcome to my profile! I'm a student passionate about the world of **Data** and 
 ---
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:albertognzga@gmail.com">
     <img src="https://img.shields.io/badge/Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
+  <a href="https://linkedin.com/in/albertognzga">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
