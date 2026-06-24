@@ -1,16 +1,13 @@
 # I'm Alberto
 
-###  Computer Systems Engineering Student | Future Data & Cloud Engineer
+###  Computer Systems Engineering Student |
 
-I'm a student passionate about the world of **Data** and **Cloud Computing**, with a clear goal of becoming a professional in these fields by 2026. I love combining programming logic with the creativity of my hobbies.
 
 ---
 
 ###  About Me
 
--  **Currently working on:** Data analysis projects and learning Cloud architectures.
--  **Learning:** English 🇺🇸, Japanese 🇯🇵, and deepening my Python skills.
--  **2026 Goal:** Landing my first Internship or Jr. role in Data/Cloud.
+
 
 
 ---
