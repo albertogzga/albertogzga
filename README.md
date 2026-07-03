@@ -8,7 +8,7 @@ Computer Systems Engineering student (Mexico City). I build REST APIs with Pytho
 
 ##  Featured project
 
-### [nihongo-srs](https://github.com/TU_USUARIO/nihongo-srs)
+### [nihongo-srs](https://github.com/albertogzga/nihongo-srs)
 A spaced repetition (SRS) REST API for learning Japanese, built from scratch.
 
 - **Stack:** Python · FastAPI · PostgreSQL · Docker
