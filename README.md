@@ -36,9 +36,6 @@ A spaced repetition (SRS) REST API for learning Japanese, built from scratch.
 
 **On the radar:** Kubernetes · Terraform · Go · Hibernate/JPA
 
----
-
----
 
 ## Contact
 
