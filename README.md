@@ -1,4 +1,4 @@
-# Hi, I'm Alberto 👋
+# Hi, I'm Alberto 
 
 **Backend Developer in training** | Python · FastAPI · PostgreSQL | Cloud/DevOps
 
@@ -18,7 +18,7 @@ A spaced repetition (SRS) REST API for learning Japanese, built from scratch.
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 **Daily drivers**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -40,7 +40,7 @@ A spaced repetition (SRS) REST API for learning Japanese, built from scratch.
 
 ---
 
-## 📫 Contact
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/albertognzga)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:albertognzga@gmail.com)
